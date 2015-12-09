@@ -49,8 +49,16 @@ int lastRotationY;
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
 
+    
+    
+    NSMutableArray *test = [NSMutableArray array];
+    for (int i = 0; i <= 34; i++)
+    {
+        [test addObject:[UIImage imageNamed:[NSString stringWithFormat:@"%d.jpg", i]]];
+    }
+    self.dataSource = [test copy];
+    
     self.imageView.contentMode = UIViewContentModeScaleAspectFill;
     lastAccelerationX = 0;
     lastRotationY = 0;
@@ -90,8 +98,10 @@ int lastRotationY;
 - (IBAction)sliderAction:(UISlider *)sender
 {
     NSUInteger value = sender.value;
-    if (self.dataSource.count)
+    if (self.dataSource.count) {
         self.imageView.image = [self.dataSource objectAtIndex:value];
+        NSLog(@"%ld",(long)value);
+    }
 }
 
 - (IBAction)startButton:(UIButton *)sender
