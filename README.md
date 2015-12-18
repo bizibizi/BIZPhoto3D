@@ -4,7 +4,7 @@
 
 ![alt tag](https://github.com/bizibizi/BIZPhoto3D/blob/master/presentation.gif)
 
-BIZPhoto3D is a fast copy of Fyuse - 3D Photos (By Fyusion) feature: making 3D photos and moving it with gyro.
+BIZPhoto3D is a fast copy of Fyuse(By Fyusion) - 3D Photos feature: making 3D photos and moving it with gyro.
 
 Fyuse app:
 
