@@ -2,9 +2,9 @@
 
 *Wait for gif presentation, it's loading...*
 
-![alt tag](https://github.com/bizibizi/BIZPhoto3D/blob/master/presentation.gif)
-
 ![alt tag](https://github.com/bizibizi/BIZPhoto3D/blob/master/presentation-fyuse.gif)
+
+![alt tag](https://github.com/bizibizi/BIZPhoto3D/blob/master/presentation.gif)
 
 BIZPhoto3D is a fast copy of Fyuse(By Fyusion) - 3D Photos feature: making 3D photos and moving it with gyro.
 
