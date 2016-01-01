@@ -12,11 +12,6 @@ Fyuse app:
 
 https://itunes.apple.com/ru/app/fyuse-3d-foto/id862863329?mt=8
 
- 
-Overview video:
-
-[![Fyuse - See the Bigger Picture](http://i.ytimg.com/vi/rSgzcY2HN5g/mqdefault.jpg)](http://www.youtube.com/watch?v=rSgzcY2HN5g "Fyuse - See the Bigger Picture")
-
 
 # Contact
 
